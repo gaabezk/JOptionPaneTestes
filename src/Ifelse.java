@@ -3,8 +3,7 @@ import java.util.Scanner;
 
 public class Ifelse {
     public static void main(String[] args) throws Exception {
-
-       
+     
         int idade;
         double altura;
         String time;
@@ -25,11 +24,6 @@ public class Ifelse {
         }else{
             System.out.println("Candidato nao qualificado!");
         }
-
-        
-     
-
-
-
+        sc.close();
         }
 }
